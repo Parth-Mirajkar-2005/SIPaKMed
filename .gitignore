@@ -1,0 +1,13 @@
+﻿# Virtual Environment
+sipakmed_env/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Large Archives & Datasets
+*.zip
+Dataset/
+processed_data/
+trained_models/
+runs/
